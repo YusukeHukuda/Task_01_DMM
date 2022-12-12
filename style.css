@@ -63,15 +63,16 @@ footer {
 }
 
 @media screen and (max-width: 425px) {
+
   main {
     width: 100%;
     display: block;
     justify-content: center;
     margin: 50px 0 50px 0;
   }
+
   .Element_01 {
-    width: 300px;
-    margin-bottom: 30px;
-    position: relative;
+    width: 90%;
+    margin: 0 0 20px 0;
   }
 }
